@@ -1,0 +1,8 @@
+setup docker 12:30
+setup database  14:00
+connect api to database 16:00
+login for user and admin 17:00
+
+sudo -iu postgres
+initdb -D /var/lib/postgres/data
+systemctl  start postgresql.service ; systemctl enable postgresql.service ; systemctl status postgresql

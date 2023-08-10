@@ -1,0 +1,1 @@
+{"version":3,"file":"todoList.js","sourceRoot":"","sources":["../../../src/routes/json/todoList.ts"],"names":[],"mappings":";;;AAKa,QAAA,IAAI,GAAa;IAC1B;QACI,EAAE,EAAE,CAAC;QACL,IAAI,EAAE,aAAa;KACtB;IACD;QACI,EAAE,EAAE,CAAC;QACL,IAAI,EAAE,iBAAiB;KAC1B;IACD;QACI,EAAE,EAAE,CAAC;QACL,IAAI,EAAE,cAAc;KACvB;CACJ,CAAC"}
